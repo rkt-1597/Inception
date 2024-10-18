@@ -10,18 +10,19 @@
  * 4. Return or print the average.
  */
 
-float calculateAverage(int arr[], int n) {
-    // Write your code here
-}
-
 int main() {
     // Declare and initialize an array
-
-    // Call calculateAverage to get the average of the array
+    
+    // Calculate the average
+        // Initialize sum variable
+        // Use for loop to sum all the elements
+    
+    // Calculate average
 
     // Print the average
-
-    // Write your code here
+    
+    // Print the average with two decimal points
 
     return 0;
 }
+
