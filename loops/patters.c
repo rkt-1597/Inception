@@ -22,7 +22,17 @@ To do this, create a loop inside another loop.
 
 int main(){
     // write your code here
-
+    int rows;
+    printf("enter the number of rows");
+    scanf("%d", &rows);
+    
+    for (int row = 1; row <= rows; row++) {
+        for (int col = 1;  col <= row;  col++) {
+            printf("%d", col);
+        }
+        printf("\n");
+        
+    }
 
     return 0;
 }
