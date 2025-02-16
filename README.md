@@ -6,7 +6,7 @@ Welcome to **Inception**, a workshop designed to introduce beginners to the fund
 - Understand the basic syntax and structure of C programs
 - Learn about variables, data types, and operators
 - Explore control flow structures (if-else, loops, switch-case)
-- Work with functions 
+- Work with functions
 - Understand Arrays
 
 ## 🚀 Getting Started
@@ -16,7 +16,7 @@ Welcome to **Inception**, a workshop designed to introduce beginners to the fund
    cd Inception
    ```
 2. Install a C compiler (GCC recommended):
-   - Windows: Install [MinGW](https://www.mingw-w64.org/)
+   - Windows: Install MinGW
    - Linux/Mac: Install GCC via package manager
      ```bash
      sudo apt install gcc  # Debian-based
